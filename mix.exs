@@ -7,6 +7,10 @@ defmodule Date.Mixfile do
       deps: deps ]
   end
 
+  def application do
+    []
+  end
+
   def deps do
     []
   end
